@@ -6,7 +6,7 @@ This repository contains a collection of resources and papers on ***Mamba Models
 
 If you have any relevant paper or codes to update the list, please pull a request or report an issue. 
 
-## Mamba
+## Mamba and Code Implementation
 [Mamba](https://github.com/state-spaces/mamba) is a new state-space model architecture showing promising performance on language modeling with O(N) complexity.
 
 [mamba.py 🐍 : a simple and efficient Mamba implementation](https://github.com/alxndrTL/mamba.py)
@@ -17,7 +17,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 [Mamba-minimal-in-JAX](https://github.com/radarFudan/mamba-minimal-jax)
 
-## Computer Vision
+## Vision Domain
 
 [Efficient Visual Representation Learning with Bidirectional State Space Model](https://github.com/hustvl/Vim)
 
@@ -35,7 +35,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 [VM-UNet](https://github.com/JCruan519/VM-UNet)
 
-## NLP
+## Natural Language Processing and Large Language Model
 
 [MambaByte: Token-free Selective State Space Model](https://github.com/kyegomez/MambaByte)
 
@@ -49,7 +49,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919)
 
-## Graph
+## Graph Domain
 
 [Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces](https://github.com/bowang-lab/Graph-Mamba)
 
