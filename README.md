@@ -67,4 +67,4 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 ## Acknowledgement
 
-- [@yanliang2612](https://github.com/yanliang3612) 
+- [Divin Yan (yanliangfdu@gmail.com)](https://github.com/yanliang3612) 
