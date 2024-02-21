@@ -65,6 +65,6 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 [Generalization](https://openreview.net/forum?id=EGjvMcKrrl&noteId=eWRltAW3XY)
 
-## Acknowledgement
+## Contact
 
 - [Divin Yan (yanliangfdu@gmail.com)](https://github.com/yanliang3612) 
